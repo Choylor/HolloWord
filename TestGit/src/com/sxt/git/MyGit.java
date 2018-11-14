@@ -10,4 +10,8 @@ public class MyGit {
 	public static sayHello(){
 	System.out.println("test,lihao");
 	}
+	
+	public static void testBranch(){
+		System.out.println("新增branch方法");
+		}
 }
