@@ -5,7 +5,7 @@ public class TestGit {
 		System.out.println("zhangshan");
 	}
 	
-	publiv void sayyes(){
+	public void sayyes(){
 	int i =2;
 	}
 
