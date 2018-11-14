@@ -14,4 +14,15 @@ public class MyGit {
 	public static void testBranch(){
 		System.out.println("新增branch方法");
 		}
+	
+	public static void login(){
+		System.out.println("login");
+		System.out.println("请输入用户名");
+		}
+	
+	
+	public static void checkname(){
+		System.out.println("cheName");
+		System.out.println("请输xingm");
+		}
 }
